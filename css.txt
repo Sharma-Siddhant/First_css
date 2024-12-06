@@ -14,4 +14,8 @@ color: black;
 section { 
 border: 1px solid #ccc; 
 padding: 10px; 
+
+
+//this change is done to see the secind commit
+
 }
